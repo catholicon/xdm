@@ -187,31 +187,6 @@
           "description": "org id",
           "type": "string"
         },
-        "marketo:originalReferrer": {
-          "title": "original referrer",
-          "description": "original referrer",
-          "type": "string"
-        },
-        "marketo:originalSearchEngine": {
-          "title": "original search engine",
-          "description": "original search engine",
-          "type": "string"
-        },
-        "marketo:originalSearchPhrase": {
-          "title": "original search phrase",
-          "description": "original search phrase",
-          "type": "string"
-        },
-        "marketo:originalSourceInfo": {
-          "title": "original source info",
-          "description": "original source info",
-          "type": "string"
-        },
-        "marketo:originalSourceType": {
-          "title": "original source type",
-          "description": "original source type",
-          "type": "string"
-        },
         "marketo:phoneOptOutCause": {
           "title": "phone opt out cause",
           "description": "phone opt out cause",

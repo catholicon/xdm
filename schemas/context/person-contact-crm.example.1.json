@@ -13,5 +13,10 @@
   "xdm:contactStatus": "Established",
   "xdm:contactStatusDetail": "Contact has been established",
   "xdm:type": "",
-  "xdm:userId": ""
+  "xdm:userId": "",
+  "xdm:originalReferrer": "",
+  "xdm:originalSearchEngine": "",
+  "xdm:originalSearchPhrase": "",
+  "xdm:originalSourceInfo": "",
+  "xdm:originalSourceType": "",
 }

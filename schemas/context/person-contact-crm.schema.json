@@ -38,7 +38,7 @@
           "description": "Contact account id",
           "type": "string"
         },
-        "marketo:userOwnerId": {
+        "xdm:userOwnerId": {
           "title": "User Owner Id",
           "description": "User owner id",
           "type": "string"
@@ -93,7 +93,32 @@
           "title": "user id",
           "description": "user id",
           "type": "string"
-        }
+        },
+        "xdm:originalReferrer": {
+          "title": "original referrer",
+          "description": "original referrer",
+          "type": "string"
+        },
+        "xdm:originalSearchEngine": {
+          "title": "original search engine",
+          "description": "original search engine",
+          "type": "string"
+        },
+        "xdm:originalSearchPhrase": {
+          "title": "original search phrase",
+          "description": "original search phrase",
+          "type": "string"
+        },
+        "xdm:originalSourceInfo": {
+          "title": "original source info",
+          "description": "original source info",
+          "type": "string"
+        },
+        "xdm:originalSourceType": {
+          "title": "original source type",
+          "description": "original source type",
+          "type": "string"
+        },
       }
     }
   },

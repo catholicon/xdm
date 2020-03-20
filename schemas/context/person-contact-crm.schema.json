@@ -118,7 +118,7 @@
           "title": "original source type",
           "description": "original source type",
           "type": "string"
-        },
+        }
       }
     }
   },

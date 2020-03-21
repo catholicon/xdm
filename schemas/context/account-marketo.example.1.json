@@ -1,0 +1,42 @@
+{
+  "marketo:id": "MKTO1111",
+  "marketo:instanceId": "AAABBB",
+  "marketo:org": {
+    "marketo:notes": "Account Notes",
+    "marketo:accountType": "Business",
+    "marketo:primaryInterestId": "ABC111",
+    "marketo:isPrivate": true,
+    "marketo:additionalFields": "Additional fields information for this account"
+  },
+  "marketo:namedAccount": {
+    "marketo:opptyAmount": 10000,
+    "marketo:opptyCount": 2,
+    "marketo:percentiles": [
+      10,
+      15,
+      20,
+      20,
+      15
+    ],
+    "marketo:scores": [
+      1,
+      0.9,
+      0.8,
+      0.75,
+      0.5
+    ],
+    "marketo:membershipCount": 3,
+    "marketo:CRMOrgId": "crmorg111",
+    "marketo:domainName": "Retail",
+    "marketo:isTargeted": true
+  },
+  "xdm:extSourceAudit": {
+    "xdm:createdBy": "USER111",
+    "xdm:createdDate": "2018-01-02T15:52:25+00:00",
+    "xdm:lastUpdatedBy": "USER2222",
+    "xdm:lastUpdatedDate": "2018-01-02T15:52:25+00:00",
+    "xdm:lastActivityDate": "2018-01-02T15:52:25+00:00",
+    "xdm:lastReferencedDate": "2018-01-02T15:52:25+00:00",
+    "xdm:lastViewedDate": "2018-01-02T15:52:25+00:00"
+  }
+}
